@@ -33,4 +33,3 @@ def mapLeraning():
 
 if __name__ == "__main__":
     printSamples()
-    print("t")
